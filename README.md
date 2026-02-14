@@ -1,4 +1,4 @@
-# 📊 Sales & Finance Analytics: End-to-End BI Solution
+# 📊 Sales Analytics: End-to-End BI Solution
 
 > **An advanced Excel-based Business Intelligence project transforming raw sales and finance data into strategic, decision-supporting dashboards.**
 
@@ -49,8 +49,15 @@ This project showcases a complete data analytics lifecycle from **ETL (Extract, 
 
 ---
 
-## 📬 Contact & Connect
-**Aditya Srinish** *MBA in Business Analytics & Operations*
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/adityasrinish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlesheets&logoColor=white)](datascienceportfol.io/adityasrinish)
+---
+
+## 📬 Contact & Connect
+**Aditya Srinish** | *MBA in Business Analytics & Operations*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasrinish/)
+[![Portfolio](https://img.shields.io/badge/Data_Portfolio-05192D?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datascienceportfol.io/adityasrinish)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSrinish)
+
+---
